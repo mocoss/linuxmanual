@@ -1,4 +1,4 @@
-# 🐧 Linux 学习笔记
+# 🐧 Linux 命令手册
 
 > 从零开始学习 Linux，系统运维、命令行、Shell 脚本完整知识库
 
@@ -66,13 +66,13 @@
 
 ### 在线浏览
 
-访问网站：https://mocoss.github.io/linuxnotes/
+访问网站：https://mocoss.github.io/linuxmanual/
 
 ### 本地运行
 
 ```bash
 # 克隆项目
-git clone https://github.com/mocoss/linuxnotes.git
+git clone https://github.com/mocoss/linuxmanual.git
 cd linuxnotes
 
 # 安装依赖
